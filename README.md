@@ -1,11 +1,4 @@
 # top-burpsuite-plugins-extensions
-# Awesome Burp Extensions  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of amazingly awesome Burp Extensions
-
-# Contributing
-
-[Please refer to the contributing guide for details](CONTRIBUTING.md).
-
 
 # How to Use
 Awesome burp extensions is an amazing list for people who want to spice up their Burp instance with awesome plugins. The best ways to use are:
